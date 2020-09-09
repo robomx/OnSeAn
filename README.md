@@ -27,8 +27,10 @@ A better answer for your single query is important to save lot of time. We use S
 ## How to run locally?
 ```
 $ yarn
-$ netlify dev
+$ netlify dev (or gatbsy develop)
 ```
 
 Lets save time!
     
+Credits
+* <a href='https://www.freepik.com/vectors/background'>Home Background vector created by rawpixel.com - www.freepik.com</a>

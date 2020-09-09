@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: One Search Answer
+image: /img/back.jpg
+heading: One Search Answer
+subheading: Save your Google search time by finding old solved problems
 mainpitch:
-  title: Why Kaldi
+  title: Why OnSeAn
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Save your search time by finding a unique solution.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  A better answer for your single query is important to save time. We use StackOverflow and other issue handling platforms. But having multiple answers and trying all is a time consuming task. Here I am trying to formulate an idea to save my own time first and save other devs time as well in the long run.
 intro:
   blurbs:
     - image: /img/coffee.png
