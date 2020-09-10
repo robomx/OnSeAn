@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+    <img width="33%" src="https://raw.githubusercontent.com/anshcena/OnSeAn/master/static/img/onsean.png"> 
+</p>
+    
 [![Netlify Status](https://api.netlify.com/api/v1/badges/11e30bc9-5972-4bf9-adad-ec43f8df87c2/deploy-status)](https://app.netlify.com/sites/onsean/deploys)
 
 
