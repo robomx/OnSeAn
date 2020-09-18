@@ -30,7 +30,7 @@ A better answer for your single query is important to save lot of time. We use S
 ## How to run locally?
 ```
 $ yarn
-$ netlify dev (or gatbsy develop)
+$ netlify dev (or gatsby develop)
 ```
 
 Lets save time!
