@@ -24,8 +24,9 @@ A better answer for your single query is important to save lot of time. We use S
     ...
     
 ## Tech Stack:
-    * Git as Data
-    * Netlify CMS
+* Gatsby
+* Git Gateway
+* Netlify CMS
 
 ## How to run locally?
 ```
