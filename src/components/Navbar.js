@@ -68,6 +68,9 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
+              <a href="/admin" className="navbar-item">
+                Login
+              </a>
               <a
                 className="navbar-item"
                 href="https://github.com/robomx/onsean"
