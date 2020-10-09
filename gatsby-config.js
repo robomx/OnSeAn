@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "OnSeAn",
+    siteUrl: "https://onsean.robomx.com",
     description:
       "A better answer for your single query is important to save lot of time. We use StackOverflow and other issue handling platforms. But having multiple answers and trying all is a bad sign. Here I am trying to formulate an idea to save my own time first and save other devs time as well in the long run.",
   },
@@ -100,7 +101,4 @@ module.exports = {
     },
     "gatsby-plugin-sitemap",
   ],
-  siteMetadata: {
-    siteUrl: "https://onsean.robomx.com",
-  },
 };
