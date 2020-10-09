@@ -8,26 +8,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frobomx%2Fonsean&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 A better answer for your single query is important to save lot of time. We use StackOverflow and other issue handling platforms. But having multiple answers and trying all is a bad sign. Here I am trying to formulate an idea to save my own time first and save other devs time as well in the long run.
-
-## How users can search for item?
-- [ ] Platform based query
-- [ ] Version based query
-- [ ] OS based query
-- [ ] Timespan based query
-
-
-## Problems:
-* #### How to get unique search entry?
-
-    One possibility is to have [IPFS](https://ipfs.io/) platform to upload the title which are unique hashes.
-* #### Query large documents
-    
-    ...
     
 ## Tech Stack:
 * Gatsby
 * Git Gateway
 * Netlify CMS
+* Algolia
 
 ## How to run locally?
 ```
