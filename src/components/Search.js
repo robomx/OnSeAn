@@ -30,8 +30,11 @@ const Search = () => (
 function Post(props) {
   return (
     <Link to={props.hit.url}>
-      if (props.hit.image)
-      {<img src={props.hit.image} align="center" alt={props.hit.title} />}
+      {props.hit.image ? (
+        <img if src={props.hit.image} align="center" alt={props.hit.title} />
+      ) : (
+        ""
+      )}
       <div className="hit-name">
         <Highlight attribute="name" hit={props.hit.title} />
       </div>

@@ -96,7 +96,7 @@ module.exports = {
       resolve: "gatsby-plugin-robots-txt",
       options: {
         host: ["https://onsean.robomx.com"],
-        policy: [{ userAgent: "*", disallow: ["/"] }],
+        policy: [{ userAgent: "*",allow: ["/posts"], disallow: ["/"] }],
       },
     },
     "gatsby-plugin-sitemap",
