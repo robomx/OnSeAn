@@ -10,3 +10,27 @@
 package = "@algolia/netlify-plugin-crawler"
   [plugins.inputs]
   branches = ['master']
+
+[[redirects]]
+  from = "http://onsean.robomx.com"
+  to = "https://onsean.robomx.com"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://onsean.robomx.com/*"
+  to = "https://onsean.robomx.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://onsean.robomx.tech"
+  to = "https://onsean.robomx.tech"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://onsean.robomx.tech/*"
+  to = "https://onsean.robomx.tech/:splat"
+  status = 301
+  force = true
