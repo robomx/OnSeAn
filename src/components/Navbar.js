@@ -68,6 +68,9 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
+              <a href="/queries" className="navbar-item">
+                Search
+              </a>
               <a href="/admin" className="navbar-item">
                 Login
               </a>
