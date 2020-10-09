@@ -15,18 +15,10 @@ const searchClient = algoliasearch(
   "ee3435515dfd406c4197293d88f59e52"
 );
 
-const initialUiState = {
-    indexName: {
-        query: 'test',
-        page: 0,
-    },
-}
-
 const Search = () => (
   <InstantSearch
     indexName="netlify_11e30bc9-5972-4bf9-adad-ec43f8df87c2_master_all"
     stalledSearchDelay="500"
-    initialUiState={initialUiState}
     searchClient={searchClient}
   >
     <SearchBox />
