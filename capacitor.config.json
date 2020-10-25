@@ -1,0 +1,13 @@
+{
+  "appId": "com.robomx.onsean",
+  "appName": "onsean",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "public",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
