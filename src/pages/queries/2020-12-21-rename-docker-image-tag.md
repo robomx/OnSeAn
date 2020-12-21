@@ -13,4 +13,4 @@ You can do it easily using:
 
 Find id using `docker ps`.
 
-`docker image tag <image_id> <new_name>`
+`docker image tag <old_image_name> <new_image_name>`
