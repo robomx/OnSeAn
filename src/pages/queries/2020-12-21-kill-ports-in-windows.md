@@ -3,8 +3,8 @@ templateKey: blog-post
 title: kill ports in Windows
 date: 2020-12-21T16:38:34.580Z
 description: How to kill port in windows OS
-featuredpost: true
-featuredimage: /img/apple-touch-icon.png
+featuredpost: false
+featuredimage: ""
 tags:
   - ports
   - windows
