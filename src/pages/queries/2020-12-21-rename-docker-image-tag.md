@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Rename Docker image tag
 date: 2020-12-21T15:00:42.164Z
 description: This post helps to understand how one can rename a docker image tag.
-featuredpost: true
+featuredpost: false
 featuredimage: ""
 tags:
   - docker
