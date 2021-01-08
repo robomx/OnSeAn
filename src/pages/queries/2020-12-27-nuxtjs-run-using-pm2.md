@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Nuxtjs run using PM2
 date: 2020-12-27T14:52:59.446Z
 description: pm2 service to manage nuxt application.
-featuredpost: true
-featuredimage: /img/apple-touch-icon.png
+featuredpost: false
+featuredimage: ""
 tags:
   - nuxtjs
   - node
