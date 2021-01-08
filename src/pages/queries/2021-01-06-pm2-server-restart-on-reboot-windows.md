@@ -3,8 +3,8 @@ templateKey: blog-post
 title: PM2 server restart on reboot [Windows]
 date: 2021-01-06T09:16:40.576Z
 description: How to restart a pm2 app when system is restarted.
-featuredpost: true
-featuredimage: /img/apple-touch-icon.png
+featuredpost: false
+featuredimage: ""
 tags:
   - pm2
   - windows-restart-pm2
