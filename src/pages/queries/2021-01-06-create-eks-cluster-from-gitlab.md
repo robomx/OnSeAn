@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Create eks cluster from Gitlab
 date: 2021-01-06T17:24:47.542Z
 description: This post will give some insight while creating eks cluster from Gitlab.
-featuredpost: true
-featuredimage: /img/apple-touch-icon.png
+featuredpost: false
+featuredimage: ""
 tags:
   - gitlab
   - eks
