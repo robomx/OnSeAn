@@ -4,7 +4,7 @@ title: Rename Docker image tag
 date: 2020-12-21T15:00:42.164Z
 description: This post helps to understand how one can rename a docker image tag.
 featuredpost: true
-featuredimage: /img/apple-touch-icon.png
+featuredimage: ""
 tags:
   - docker
   - tag
