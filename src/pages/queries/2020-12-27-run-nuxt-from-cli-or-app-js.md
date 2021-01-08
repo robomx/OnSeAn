@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Run nuxt from cli or app.js
 date: 2020-12-27T14:49:59.387Z
 description: Now you can easily run a nuxt project using app.js
-featuredpost: true
-featuredimage: /img/apple-touch-icon.png
+featuredpost: false
+featuredimage: ""
 tags:
   - nuxtjs
   - nuxt-cli
