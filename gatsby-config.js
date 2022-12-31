@@ -100,5 +100,15 @@ module.exports = {
       },
     },
     "gatsby-plugin-sitemap",
+    {
+      resolve: `gatsby-plugin-umami`,
+      options: {
+        websiteId: 'cbcc8d20-42b5-405d-933b-d7b72ce3f26b',
+        srcUrl: 'https://analytics.robomx.com/umami.js',
+        includeInDevelopment: false,
+        autoTrack: true,
+        respectDoNotTrack: true
+      },
+    },
   ],
 };
